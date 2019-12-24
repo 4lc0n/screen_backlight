@@ -22,3 +22,5 @@ great LED strip with seperate programmable LEDs, widely available, had some layi
 for your information
 --------------------
 i am by far no experienced programmer and may have made some mistakes or did made some unconventional programming but i am open to suggestions regarding my code. you can use this code for your project, but i will not take any responsibility for any results.
+
+the code is incomplete. it will be updated over time as the project evolves.
